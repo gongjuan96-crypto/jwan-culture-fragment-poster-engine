@@ -1,6 +1,10 @@
 ---
 name: jwan-culture-fragment-poster-engine
 description: Transform supplied cultural fragments, scenes, objects, and notes into a coherent editorial poster composition.
+metadata:
+  version: 1.0.0
+  author: Jwan
+  license: MIT
 ---
 
 # Jwan Culture Fragment Poster Engine
